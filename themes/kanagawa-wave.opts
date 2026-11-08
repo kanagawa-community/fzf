@@ -1,0 +1,19 @@
+# Kanagawa Wave
+--color=bg:#1f1f28
+--color=bg+:#363646
+--color=gutter:#1f1f28
+--color=selected-bg:#223249
+--color=fg:#dcd7ba
+--color=fg+:#dcd7ba
+--color=label:#dcd7ba
+--color=query:#dcd7ba
+--color=hl:#ffa066
+--color=hl+:#ffa066
+--color=header:#ffa066
+--color=info:#957fb8
+--color=prompt:#957fb8
+--color=pointer:#7e9cd8
+--color=spinner:#7e9cd8
+--color=marker:#98bb6c
+--color=border:#54546d
+--color=disabled:#727169
