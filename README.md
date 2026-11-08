@@ -3,7 +3,6 @@
 <h3>Kanagawa for <a href="https://github.com/junegunn/fzf">fzf</a></h3>
 <p>A community-maintained theme inspired by Hokusai's <em>The Great Wave off Kanagawa</em>.</p>
 <p>Using the <a href="https://github.com/rebelot/kanagawa.nvim">Kanagawa palette</a> by <a href="https://github.com/rebelot">Tommaso Laurenzi (rebelot)</a>.</p>
-<p>Modeled on <a href="https://github.com/catppuccin/fzf">Catppuccin for fzf</a>.</p>
 
 <!-- Wave accents: carpYellow, crystalBlue, autumnRed. Lotus accents: lotusYellow, lotusBlue4, lotusRed. -->
 <p>
