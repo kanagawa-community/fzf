@@ -1,0 +1,17 @@
+README.md
+CONTRIBUTING.md
+LICENSE
+cog.toml
+themes/kanagawa-wave.opts
+themes/kanagawa-dragon.opts
+themes/kanagawa-lotus.opts
+scripts/preview.sh
+scripts/fixtures/files.txt
+assets/showcase.png
+assets/screenshots/wave.png
+assets/screenshots/dragon.png
+assets/screenshots/lotus.png
+.github/workflows/files.yml
+.github/workflows/commits.yml
+.github/workflows/release.yml
+.github/workflows/assign.yml

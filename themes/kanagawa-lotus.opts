@@ -1,0 +1,19 @@
+# Kanagawa Lotus
+--color=bg:#f2ecbc
+--color=bg+:#e4d794
+--color=gutter:#f2ecbc
+--color=selected-bg:#c9cbd1
+--color=fg:#545464
+--color=fg+:#545464
+--color=label:#545464
+--color=query:#545464
+--color=hl:#cc6d00
+--color=hl+:#cc6d00
+--color=header:#cc6d00
+--color=info:#624c83
+--color=prompt:#624c83
+--color=pointer:#4d699b
+--color=spinner:#4d699b
+--color=marker:#6f894e
+--color=border:#a09cac
+--color=disabled:#8a8980

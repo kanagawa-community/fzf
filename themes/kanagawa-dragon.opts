@@ -1,0 +1,19 @@
+# Kanagawa Dragon
+--color=bg:#181616
+--color=bg+:#393836
+--color=gutter:#181616
+--color=selected-bg:#223249
+--color=fg:#c5c9c5
+--color=fg+:#c5c9c5
+--color=label:#c5c9c5
+--color=query:#c5c9c5
+--color=hl:#b6927b
+--color=hl+:#b6927b
+--color=header:#b6927b
+--color=info:#8992a7
+--color=prompt:#8992a7
+--color=pointer:#8ba4b0
+--color=spinner:#8ba4b0
+--color=marker:#8a9a7b
+--color=border:#625e5a
+--color=disabled:#737c73
