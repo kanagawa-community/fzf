@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/kanagawa-community/fzf/compare/1.0.0..1.1.0) - 2026-11-08
+
+### Features
+
+- add install and uninstall scripts (#4) - ([1b016b9](https://github.com/kanagawa-community/fzf/commit/1b016b91fab30535ceb57495faaec9e2cb1fdbf0)) - [@sravioli](https://github.com/sravioli)
+- add install and uninstall scripts - ([073e9e1](https://github.com/kanagawa-community/fzf/commit/073e9e1d1ee0147d3ec1a9512e926ce1251bacba)) - [@sravioli](https://github.com/sravioli)
+
+### Documentation
+
+- install with the install script - ([fb74b36](https://github.com/kanagawa-community/fzf/commit/fb74b367f3533d10f348e97e5ea7961363ca3aa6)) - [@sravioli](https://github.com/sravioli)
+
+---
+
 ## [1.0.0](https://github.com/kanagawa-community/fzf/compare/f6b6e8325571ec08a4f334a9d4fea685f18a96a4..1.0.0) - 2026-11-08
 
 ### Features
